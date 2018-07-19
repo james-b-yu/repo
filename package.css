@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+
+    font-family: "Renner";
+}
+
+div.page {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+div.caption {
+    padding: 8px 16px 0px 16px;
+    font-weight: 300;
+    font-size: 1.2em;
+}
+
+div.section{
+    padding: 8px 32px 0px 32px;
+}
+
+div.caption, div.section {
+    flex-grow: 0;
+}
+
+div.screenshots {
+    display: flex;
+    flex-direction: row;
+    height: 320px;
+    margin-left: 48px;
+    margin-right: 48px;
+    padding-left: 0;
+    padding-right: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+div.screenshots img {
+    flex-grow: 0;
+    flex-shrink: 0;
+    height: 320px;
+}
+
+div.screenshots img:not(:last-of-type) {
+    margin-right: 16px;
+}
+
+@font-face {
+    font-family: "Renner";
+    src: url("./Renner\ 300\ Light.otf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Renner";
+    src: url("./Renner\ 400\ Book.otf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Renner";
+    src: url("./Renner\ 700\ Bold.otf");
+    font-weight: 700;
+}

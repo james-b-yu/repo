@@ -3,15 +3,16 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: James Yu <fiercedeity-productions@outlook.com>
 Filename: deb/iridium-1.0.0.deb
-Size: 225364
-MD5sum: 28252c27a1297a2cf5b6c6bd491bbcc5
-SHA1: a598d31a4147dc4073be2d1bbcdd2734f7ec9597
-SHA256: 83bf37eb5c15b374406a931ab4e3c2eb333cb265477cc8eb01e930cdf507f0d6
+Size: 225372
+MD5sum: 047b0f10eb77c6e5acd478f34272852d
+SHA1: 977ca7e91c4be01b47856e187c076056bbed8f7c
+SHA256: ea9b5366a2a3ba6436bd658f0e4a392f4511f2d604c538c5540f9b348d62f948
 Section: Lockscreen Widgets
 Homepage: http://fiercedeity-productions.github.io/repo
 Description: The most beautiful lockscreen clock.
  The most beautiful lockscreen clock you'll ever come across.
- Make your lockscreen beautiful with this minimalistic and customizable lockscreen clock -- complete with a weather display and date, perfectly typeset and optimized from quick glancing, and available completely for free!
+ Make your lockscreen beautiful with this minimalistic and customizable lockscreen clock -- complete with a weather display and date, perfectly typeset and optimized for quick glancing, and available completely for free!
 Author: James Yu <fiercedeity-productions@outlook.com>
+Depiction: http://fiercedeity-productions.github.io/repo?iridium
 Name: Iridium
 
