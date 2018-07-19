@@ -7,8 +7,8 @@ Description: The most beautiful lockscreen clock.
  Make your lockscreen beautiful with this minimalistic and customizable lockscreen clock -- complete with a weather display and date, perfectly typeset and optimized for quick glancing, and available completely for free!
 Homepage: http://fiercedeity-productions.github.io/repo
 Depiction: http://fiercedeity-productions.github.io/repo/package?iridium
-Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml
+Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml, com.fiercedeity-productions.repoicons
 Maintainer: James Yu <fiercedeity-productions@outlook.com>
 Author: James Yu <fiercedeity-productions@outlook.com>
 Section: Lockscreen Widgets
-Icon: https://fiercedeity-productions.github.io/repo/images/repo.png
+Icon: file:///var/mobile/Library/fiercedeity-icons/repo-ls.png

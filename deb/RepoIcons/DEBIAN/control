@@ -1,0 +1,11 @@
+Package: com.fiercedeity-productions.repoicons
+Name: James Yu's Repo Icons
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Repository Icons
+Homepage: http://fiercedeity-productions.github.io/repo
+Depiction: http://fiercedeity-productions.github.io/repo/package?icons
+Maintainer: James Yu <fiercedeity-productions@outlook.com>
+Author: James Yu <fiercedeity-productions@outlook.com>
+Section: Lockscreen Widgets
+Icon: file:///var/mobile/Library/fiercedeity-icons/repo.png
