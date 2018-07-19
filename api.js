@@ -8,6 +8,9 @@ let Packages = {
             "images/iridium-3.png",
             "images/iridium-4.png"
         ],
-        documentation: "how to use me."
+        documentation: `
+            As demonstrated in the screenshots, this lockscreen clock is <em>the</em> most beautiful and customizable! <br>
+            
+        `
     }
 };
