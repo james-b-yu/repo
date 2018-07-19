@@ -2,11 +2,12 @@ Package: com.fiercedeity-productions.iridium
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: James Yu <fiercedeity-productions@outlook.com>
+Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml
 Filename: deb/iridium-1.0.0.deb
-Size: 225376
-MD5sum: 6e77cf081abba436203b75ee7ea29cc6
-SHA1: cb7e609ebdb8b4c78601060572e158b50fc823e4
-SHA256: 1207fdfdc727deede9fc290ceb69976febc39c3238e9cc8174dcb8890106aaf8
+Size: 225412
+MD5sum: fa0c9f62594e9feeb615227439546f6d
+SHA1: 0c9928a105a44d3dba9c8d5de677a4af807cd1fc
+SHA256: 6d350743adc1f2f7a6f4102469acda3ddb8dbfc45ac2accaea0fa7426acf29af
 Section: Lockscreen Widgets
 Homepage: http://fiercedeity-productions.github.io/repo
 Description: The most beautiful lockscreen clock.
