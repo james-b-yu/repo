@@ -11,3 +11,4 @@ Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml
 Maintainer: James Yu <fiercedeity-productions@outlook.com>
 Author: James Yu <fiercedeity-productions@outlook.com>
 Section: Lockscreen Widgets
+Icon: https://fiercedeity-productions.github.io/repo/images/repo.png
