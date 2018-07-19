@@ -30,5 +30,22 @@ let Packages = {
         changelog: `
             <b>1.0.0</b> (18.07.18): Initial release
         `
+    },
+    icons: {
+        name: "Lockscreen Icons",
+        description: `Provide icons to packages.`,
+        screenshots: [
+            "images/repo.png",
+            "images/repo-ls.png",
+        ],
+        dependencies: `
+            None
+        `,
+        documentation: `
+            Simply removes the [?] next to packages in this repository.
+            `,
+        changelog: `
+            <b>1.0.0</b> (19.07.18): Initial release
+        `
     }
 };
