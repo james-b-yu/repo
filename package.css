@@ -1,8 +1,6 @@
 * {
     padding: 0;
     margin: 0;
-
-    font-family: "Renner";
 }
 
 div.page {
@@ -19,6 +17,7 @@ div.caption {
 
 div.section{
     padding: 8px 32px 0px 32px;
+    background-color: white;
 }
 
 div.caption, div.section {
@@ -41,7 +40,7 @@ div.screenshots img:not(:last-of-type) {
     margin-bottom: 16px;
 }
 
-@font-face {
+/* @font-face {
     font-family: "Renner";
     src: url("./Renner\ 300\ Light.otf");
     font-weight: 300;
@@ -57,4 +56,4 @@ div.screenshots img:not(:last-of-type) {
     font-family: "Renner";
     src: url("./Renner\ 700\ Bold.otf");
     font-weight: 700;
-}
+} */
