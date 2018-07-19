@@ -26,6 +26,9 @@ let Packages = {
             <b>Minimal Mode:</b> an even more minimal version without borders is available, with optimized spacing.<br>
             <b>Clock Format:</b> either 12hr, 24hr or set automatically to your current device settings.<br>
             <b>Language:</b> currently, English and German weekday names are supported.<br>
-            `
+            `,
+        changelog: `
+            <b>1.0.0</b> (18.07.18): Initial release
+        `
     }
 };
