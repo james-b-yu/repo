@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: James Yu <fiercedeity-productions@outlook.com>
 Filename: deb/iridium-1.0.0.deb
 Size: 225244
-MD5sum: efa8daecacee7c1b48afdcc911f864f0
-SHA1: 82d3d7e35713d2f83dbd4dbae0f24635bef6006b
-SHA256: 8aeb40e8b6f68f138cf55c084fd763e339cf749cf934e1401d522ae3dde8fe95
+MD5sum: 066d2b16cad3313ec2a0ed06a5494cb2
+SHA1: 3c362f1006c5c4718b2f1751d97b7435f0e58f86
+SHA256: d57d54002fc49f4f5679a3720499eb837319b1beeca12b5744a089006fe6b6fb
 Section: Lockscreen Widgets
 Homepage: http://fiercedeity-productions.github.io/repo
 Description: The most beautiful lockscreen clock.
