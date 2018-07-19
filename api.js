@@ -11,8 +11,8 @@ let Packages = {
             "images/iridium-4.png"
         ],
         dependencies: `
-            <b>Xen HTML:</b> <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://xenhtml.incendo.ws/">xenhtml.incendo.ws</a><br>
-            <b>XenInfo:</b> <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://junesiphone.com/supersecret/">junesiphone.com/supersecret/</a>
+            <b>Xen HTML:</b> <a href="https://xenhtml.incendo.ws/">xenhtml.incendo.ws</a><br>
+            <b>XenInfo:</b> <a href="http://junesiphone.com/supersecret/">junesiphone.com/supersecret/</a>
         `,
         documentation: `
             As demonstrated in the screenshots, this lockscreen clock is <em>the</em> most beautiful and customizable! <br>
