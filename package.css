@@ -26,27 +26,19 @@ div.caption, div.section {
 }
 
 div.screenshots {
+    align-items: center;
     display: flex;
-    flex-direction: row;
-    height: 320px;
-    margin-left: 48px;
-    margin-right: 48px;
-    padding-left: 0;
-    padding-right: 0;
-    overflow-x: scroll;
-    overflow-y: hidden;
-
-    width: 100%;
+    flex-direction: column;
+    margin: 0 12px;
 }
 
 div.screenshots img {
     flex-grow: 0;
-    flex-shrink: 0;
-    height: 320px;
+    max-width: 280px;
 }
 
 div.screenshots img:not(:last-of-type) {
-    margin-right: 16px;
+    margin-bottom: 16px;
 }
 
 @font-face {
