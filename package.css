@@ -8,6 +8,7 @@ div.page {
     display: flex;
     flex-direction: column;
     width: 100%;
+    background-color: white;
 }
 
 div.caption {
@@ -18,7 +19,6 @@ div.caption {
 
 div.section{
     padding: 8px 32px 0px 32px;
-    background-color: white;
 }
 
 div.caption, div.section {
