@@ -1,3 +1,3 @@
 chmod -R 7777 /var/mobile/Library/LockHTML/Iridium.theme
-chown -R $(whoami) /var/mobile/Library/LockHTML/Iridium.theme
-echo -e "Enjoy your new minimalistic lockscreen! \033[1mEnsure that XenInfo and XenHTML are installed.\033[0m"
+chown -R mobile:everyone /var/mobile/Library/LockHTML/Iridium.theme
+echo -e "Enjoy your new minimalistic lockscreen!"
