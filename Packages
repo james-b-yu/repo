@@ -4,13 +4,13 @@ Architecture: iphoneos-arm
 Maintainer: James Yu <fiercedeity-productions@outlook.com>
 Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml, com.fiercedeity-productions.repoicons
 Filename: deb/iridium-1.0.0.deb
-Size: 225440
-MD5sum: da796ee65aa66a17ce6d106a50a7f814
-SHA1: 3ac75825393362448f2209106e20e73ceeb47ee6
-SHA256: fea5c28fde76c08736a2c7ed038770e7787f700bcf1fa0fe2233f8ce2634601b
-Section: Lockscreen Widgets
+Size: 225436
+MD5sum: a514cb0dc14fecda495ac6d18ba28cfd
+SHA1: 5313665b989384ef3589e63141f9a949f5c93a31
+SHA256: 5c629a558258e9ab7f46d972c159bef3945821d6eebdbf81b4c1382b04976a2c
+Section: Lockscreen
 Homepage: http://fiercedeity-productions.github.io/repo
-Description: The most beautiful lockscreen clock.
+Description: The most beautiful lockscreen clock
  The most beautiful lockscreen clock you'll ever come across.
  Make your lockscreen beautiful with this minimalistic and customizable lockscreen clock -- complete with a weather display and date, perfectly typeset and optimized for quick glancing, and available completely for free!
 Author: James Yu <fiercedeity-productions@outlook.com>
@@ -23,11 +23,11 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: James Yu <fiercedeity-productions@outlook.com>
 Filename: deb/repoicons-1.0.0.deb
-Size: 3256
-MD5sum: a16792e657cc5e1c1bb86dc82229d17b
-SHA1: 9165386585f61b7caa5f6c8dce669da30294d690
-SHA256: af13615f29e94f2c8393fa0e9384b370e19502a40c806d48c53e5b9969a8e67f
-Section: Lockscreen Widgets
+Size: 3252
+MD5sum: 24016b3014da019a777ed5e6cba71975
+SHA1: 539d48d4fdc738f6c06b8274a033e03f0e5f4d72
+SHA256: e3f680482c4ba59e3ea06df9eb26f926f5b1549d1451526d5e67cb7b10230fe2
+Section: Miscellaneous
 Homepage: http://fiercedeity-productions.github.io/repo
 Description: Repository Icons
 Author: James Yu <fiercedeity-productions@outlook.com>
