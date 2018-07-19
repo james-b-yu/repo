@@ -1,0 +1,146 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	display: block;
+	position: absolute;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	font-family: "Renner";
+	color: #f3f3f3;
+}
+
+.main-view {
+	position: relative;
+	top: 20vh;
+	min-width: 196px;
+	/* min-height: 96px; */
+	display: flex;
+	flex-direction: column;
+	border: solid #f3f3f3 2px;
+	border-bottom: none;
+}
+
+.main-view.minimal {
+	border: none;
+}
+
+.main-view .view-item {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-grow: 0;
+	padding: 8px 24px;
+}
+
+.main-view.minimal .view-item {
+	padding: 0 24px;
+}
+
+.main-view:not(.minimal) .view-item {
+	border-bottom: solid #f3f3f3 2px;
+}
+
+.main-view .view-item.time {
+	font-size: 48px;
+	padding: 12px 24px;
+}
+
+.main-view.minimal .view-item.time {
+	padding: 4px 24px;
+}
+
+.weather .icon, .weather .rain-icon {
+	font-family: "Weather Icons";
+}
+
+.temp-lvl, .rain-lvl {
+	font-weight: 400;
+} 
+
+.view-item.weather {
+	padding: 0;
+	display:flex;
+	flex-direction: row;
+}
+
+.view-item.weather .section {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-grow: 1;
+	padding: 8px 8px;
+}
+
+.main-view.minimal .view-item.weather .section {
+	padding: 0;
+	border: none;
+}
+
+.day {
+	text-transform: uppercase;
+	font-weight: 300;
+}
+
+.num {
+	font-weight: 500;
+}
+
+.hours {
+	font-weight: 700;
+}
+
+.minutes {
+	font-weight: 300;
+}
+
+.seconds {
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: "Renner";
+	src: url("Renner\ 700\ Bold.otf");
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: "Renner";
+	src: url("Renner\ 500\ Medium.otf");
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: "Renner";
+	src: url("Renner\ 400\ Book.otf");
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Renner";
+	src: url("Renner\ 300\ Light.otf");
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: "Renner";
+	src: url("Renner\ 200\ Thin.otf");
+	font-weight: 200;
+}
+
+@font-face {
+	font-family: "Renner";
+	src: url("Renner\ 100\ Hairline.ttf");
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: "Weather Icons";
+	src: url("./weathericons-regular-webfont.woff2");
+}
