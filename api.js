@@ -25,10 +25,12 @@ let Packages = {
             <b>Chance of Rain:</b> the rain probability is automatically hidden if at 0%, but you can also choose to hide it completely but still show the condition and temperature.<br>
             <b>Minimal Mode:</b> an even more minimal version without borders is available, with optimized spacing.<br>
             <b>Clock Format:</b> either 12hr, 24hr or set automatically to your current device settings.<br>
-            <b>Language:</b> currently, English and German weekday names are supported.<br>
+            <b>Locale:</b> set a custom language code, like "en-GB", "hr" and "de-DE"<br>
+            <b>Date Format:</b> for advanced users: replace the default date contents with your own formatted string. See <a href="https://momentjs.com/docs/#/displaying/format/">MomentJS formatting rules</a>.
             `,
         changelog: `
-            <b>1.0.0</b> (18.07.18): Initial release
+            <b>1.0.0</b> (18.07.18): Initial release <br>
+            <b>1.0.1</b> (21.07.18): Can now support a full range of locales, and a custom format string based on the <a href="https://momentjs.com/docs/#/displaying/format/">MomentJS formatting rules</a> 
         `
     },
     icons: {

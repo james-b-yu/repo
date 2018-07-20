@@ -54,6 +54,26 @@ Depiction: http://fiercedeity-productions.github.io/repo/package?iridium
 Icon: file:///var/mobile/Library/fiercedeity-icons/repo-ls.png
 Name: Iridium
 
+Package: com.fiercedeity-productions.iridium
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: James Yu <fiercedeity-productions@outlook.com>
+Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml, com.fiercedeity-productions.repoicons
+Filename: deb/iridium-1.0.1.deb
+Size: 299040
+MD5sum: 9fecf927b1a5bd7f354190e6ab07298b
+SHA1: 6f70b7b3c5f572f8f641ef3c128f6de6bcfacf01
+SHA256: d4309adffbbf62456ef967ca3d6b70fd022b71dba6fa870002fdfb66dff1de4b
+Section: Lockscreen
+Homepage: http://fiercedeity-productions.github.io/repo
+Description: The most beautiful lockscreen clock
+ The most beautiful lockscreen clock you'll ever come across.
+ Make your lockscreen beautiful with this minimalistic and customizable lockscreen clock -- complete with a weather display and date, perfectly typeset and optimized for quick glancing, and available completely for free!
+Author: James Yu <fiercedeity-productions@outlook.com>
+Depiction: http://fiercedeity-productions.github.io/repo/package?iridium
+Icon: file:///var/mobile/Library/fiercedeity-icons/repo-ls.png
+Name: Iridium
+
 Package: com.fiercedeity-productions.repoicons
 Version: 1.0.0
 Architecture: iphoneos-arm

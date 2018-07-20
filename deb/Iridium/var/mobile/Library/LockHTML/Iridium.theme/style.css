@@ -83,8 +83,11 @@ body {
 	border: none;
 }
 
-.day {
+.date {
 	text-transform: uppercase;
+}
+
+.day {
 	font-weight: 300;
 }
 
