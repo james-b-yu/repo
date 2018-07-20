@@ -69,6 +69,7 @@ let Packages = {
             `,
         changelog: `
             <b>1.0.0</b> (20.07.18): Initial release
+            <b>1.0.1</b> (20.07.18): Fix "Charging" not changing in English
         `
     },
 };

@@ -9,7 +9,7 @@ const Locale = {
 	},
 	BATT_DISCHARGING: {
 		de: "Entladen",
-		en: "Charging"
+		en: "Discharging"
 	},
 	BATT_FULL: {
 		de: "Völlig Geladen",
