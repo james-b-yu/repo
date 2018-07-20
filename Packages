@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: James Yu <fiercedeity-productions@outlook.com>
 Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml, com.fiercedeity-productions.repoicons
 Filename: deb/battery-1.0.0.deb
-Size: 70168
-MD5sum: ede0cad7d7ed070d268f11b4a5d064ec
-SHA1: 9aba22a256fdf1e0e08507463de17b26b8192991
-SHA256: e80fe6afafd562e1edfa5feeeefd02277e6d36d62a6014179355e2f1717e336f
+Size: 70228
+MD5sum: 6ee2fd49f3cb06a10dc8fa82b9722221
+SHA1: 07bda4a64e0f8fd2e1902a0647dc47807d5b894d
+SHA256: 6b0062989bf7f0f1960fe4cf7a6fdcc48e40406c7fc7483c78d6935395487c3e
 Section: Lockscreen
 Homepage: http://fiercedeity-productions.github.io/repo
 Description: Minimalistic battery display.
