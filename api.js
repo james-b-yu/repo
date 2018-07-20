@@ -65,7 +65,7 @@ let Packages = {
             <b>Language:</b> English and German text are supported.<br>
             <b>Show Status:</b> display whether the battery is charging, discharging.<br>
             <b>Show Percentage:</b> show the battery level (hidden if fully-charged).<br>
-            <b>minimal</b> remove the border around the display.<br>
+            <b>Minimal</b> remove the border around the display.<br>
             `,
         changelog: `
             <b>1.0.0</b> (20.07.18): Initial release<br>
