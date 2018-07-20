@@ -1,0 +1,2 @@
+chmod -R 7777 /var/mobile/Library/LockHTML/Battery.theme
+chown -R mobile:everyone /var/mobile/Library/LockHTML/Battery.theme

@@ -11,7 +11,7 @@ let Packages = {
             "images/iridium-4.png"
         ],
         dependencies: `
-            <b>Xen HTML:</b> <a href="https://xenhtml.incendo.ws/">xenhtml.incendo.ws</a><br>
+            <b>Xen HTML:</b> <a href="http://repo.incendo.ws/">repo.incendo.ws</a><br>
             <b>XenInfo:</b> <a href="http://junesiphone.com/supersecret/">junesiphone.com/supersecret/</a>
         `,
         documentation: `
@@ -47,5 +47,28 @@ let Packages = {
         changelog: `
             <b>1.0.0</b> (19.07.18): Initial release
         `
-    }
+    },
+    battery: {
+        name: "Battery",
+        description: `A minimalistic and simple battery display complementing the Iridium lockscreen theme.`,
+        screenshots: [
+            "images/battery-1.png",
+            "images/battery-2.png"
+        ],
+        dependencies: `
+            <b>Xen HTML:</b> <a href="http://repo.incendo.ws/">repo.incendo.ws</a><br>
+            <b>XenInfo:</b> <a href="http://junesiphone.com/supersecret/">junesiphone.com/supersecret/</a>
+        `,
+        documentation: `
+            This widget is designed to be paired with the Iridium widget, for the best lockscreen experience.
+            A number of options are available:<br>
+            <b>Language:</b> English and German text are supported.<br>
+            <b>Show Status:</b> display whether the battery is charging, discharging.<br>
+            <b>Show Percentage:</b> show the battery level (hidden if fully-charged).<br>
+            <b>minimal</b> remove the border around the display.<br>
+            `,
+        changelog: `
+            <b>1.0.0</b> (20.07.18): Initial release
+        `
+    },
 };

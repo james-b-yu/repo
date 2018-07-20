@@ -1,3 +1,21 @@
+Package: com.fiercedeity-productions.battery
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: James Yu <fiercedeity-productions@outlook.com>
+Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml, com.fiercedeity-productions.repoicons
+Filename: deb/battery-1.0.0.deb
+Size: 70168
+MD5sum: ede0cad7d7ed070d268f11b4a5d064ec
+SHA1: 9aba22a256fdf1e0e08507463de17b26b8192991
+SHA256: e80fe6afafd562e1edfa5feeeefd02277e6d36d62a6014179355e2f1717e336f
+Section: Lockscreen
+Homepage: http://fiercedeity-productions.github.io/repo
+Description: Minimalistic battery display.
+Author: James Yu <fiercedeity-productions@outlook.com>
+Depiction: http://fiercedeity-productions.github.io/repo/package?battery
+Icon: file:///var/mobile/Library/fiercedeity-icons/repo-ls.png
+Name: Battery
+
 Package: com.fiercedeity-productions.iridium
 Version: 1.0.0
 Architecture: iphoneos-arm
