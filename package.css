@@ -8,7 +8,9 @@ div.page {
     display: flex;
     flex-direction: column;
     width: 100%;
+    max-width: 414px;
     background-color: white;
+    margin: auto;
 }
 
 div.caption {
