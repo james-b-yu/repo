@@ -97,13 +97,13 @@ Architecture: iphoneos-arm
 Maintainer: June <junesgraphics@gmail.com>
 Depends: mobilesubstrate
 Filename: deb/com.junesiphone.xeninfo_1.0_iphoneos-arm.deb
-Size: 25448
-MD5sum: b6c6bd5d186dce3033b2661fdd8d0510
-SHA1: d375fb7c5a34f7966729b74302150b7fc36a7c68
-SHA256: a3582de9a5556fa87b25bafbdb6c96a10bea4617b7fed36362e9f343a3f6a66f
+Size: 25460
+MD5sum: ee12e4d3b890ebdd961151f0a80406a9
+SHA1: a08229ec528a1e32fd1412c7b69800e5b6264477
+SHA256: c403ea47f64b3943ef74dc6e2411f638dd4b20278a74f36cfdc9916767731377
 Section: Addons (Tweaks)
 Description: Music, Weather, and battery info for XenHTML
 Author: JunesiPhone <junesgraphics@gmail.com>
-Depiction: fiercedeity-productions.github.io/repo/package?xeninfo
+Depiction: https://fiercedeity-productions.github.io/repo/package?xeninfo
 Name: XenInfo
 
